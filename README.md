@@ -1,6 +1,5 @@
 # track-and-shoot---senior-design
 track and shoot - senior design project
-![Hardware Subsystem](/img/gun.png "Gun Subsystem")
-<img src="/img/gun.png" width="200" height="200">
-![CV Subsystem](/img/cv_subsys.png "CV Subsystem")
-![Detection](/img/cv_detect_res.png "detect res")
+<img src="/img/gun.png" width="400" height="400">
+<img src="/img/cv_subsys.png" width="400" height="200">
+<img src="/img/cv_detect_res.png" width="400" height="400">
